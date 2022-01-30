@@ -2,12 +2,6 @@
 # Image Classification - Stanford Cars Dataset
 
 
-
-**Problem Statement:** 
-
-Autonomous driving technology offers great hope to improve mileage on roads, reduce traffic accidents, and lessen our impact on the environment however, others argue the risks are too great in the reliance on machines when it comes to a human life. What happens if a network is hacked or we unintentionally cause more of an environmental impact and traffic. As we continue to see new emerging technologies and players in this field, will the bad outweigh the good? Leaders in this emerging space have argued on this topic for some time on how to approach this problem however all parties agree in utilizing some form of a computer vision deep neural network. Today we begin the first step in trying see how close these models can get to being "perfect". However an important perspective to keep in mind is that these systems do not necessarily have to become perfect to be the logical choice, they simply need to reach an accuracy that exceeds the capabilities of a human driver.
-
-
 ***
 ***
 
